@@ -1,22 +1,31 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/HChikry)
+
+
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Lahoucine+Chikry!;" />
 </h1>
 
-<br />
 
-
-<div align="center">
+<div align="left">
   I'm a student majoring in Artificial Intelligence and Robotization at Al Akhawayn University in Ifrane, Morocco.
   <br />
   <br />
  </div>
 
 
-<p align="center">
+<h4 align="left">Know more about me!</h3>
+<p align="left">
+<a href="https://twitter.com/hchikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hchikry" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hchikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hchikry" height="30" width="40" /></a>
 <a href="https://fb.com/hchikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hchikry" height="30" width="40" /></a>
+<a href="https://instagram.com/hchikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hchikry" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hchikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hchikry" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/hchikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hchikry" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hchikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hchikry" height="30" width="40" /></a>
 </p>
+
+
 
 <br />
 <br />
@@ -31,9 +40,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>  
-  <img width=450 align="left" src="https://github-readme-stats-salesp07.vercel.app/api?username=hchikry&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=450 align="left" src="https://github-readme-stats.vercel.app/api?username=hchikry&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
-  <img width=350 align="right" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hchikry&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=350 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hchikry&hide=PutLANGUAGEName&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
