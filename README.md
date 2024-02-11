@@ -117,5 +117,4 @@ Social Media + Competitive Programming Accounts
 And add this note
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 -->
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hchikry/hchikry/output/github-contribution-grid-snake.svg" />
-</details>
+![Snake animation](https://github.com/HChikry/HChikry/blob/output/github-contribution-grid-snake.svg)
