@@ -3,7 +3,7 @@
 </p>
 
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/HChikry)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](#)
 
 
 
@@ -112,17 +112,17 @@ Social Media + Competitive Programming Accounts
 
 ## ⚡️ My Stats and Activity
 
-<a href="https://github.com/HChikry"><img alt="Lahoucine Chikry's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=HChikry&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/HChikry"><img alt="Lahoucine Chikry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HChikry&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="#"><img alt="Lahoucine Chikry's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=HChikry&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="#"><img alt="Lahoucine Chikry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HChikry&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <!-- If you had more than 4 languages replace the top languages code with this one:
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lahoucine Chikry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HChikry&langs_count=8&theme=react&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 And add this note
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 -->
-[![Snake animation](https://github.com/HChikry/HChikry/blob/output/github-contribution-grid-snake.svg)](https://github.com/HChikry)
+[![Snake animation](https://github.com/HChikry/HChikry/blob/output/github-contribution-grid-snake.svg)](#)
 
 
 <p align="center">
-  <a href="https://github.com/HChikry"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></a>
 </p>
