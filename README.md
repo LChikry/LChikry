@@ -8,7 +8,8 @@ I'm a student majoring in Artificial Intelligence and Robotization at Al Akhaway
 
 #### You Can Find Me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HChikry)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HChikry) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HChikry)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hc4contact@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HChikry)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HChikry)
 
@@ -67,6 +68,10 @@ Social Media + Competitive Programming Accounts
 
 <a href="https://github.com/HChikry/unbeatable-tictactoe-in-c"><img alt="Ubeatable TicTacToe in C" src="https://github-readme-stats.vercel.app/api/pin/?username=HChikry&repo=unbeatable-tictactoe-in-c&theme=react&hide_border=true" height="150px"/></a>
 <a href="https://github.com/AbdessamadAe/Vex-U-2024"><img alt="Vex U 2024 Competition" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdessamadAe&repo=Vex-U-2024&theme=react&hide_border=true" height="130px"/></a>
+
+<h4 align="center">
+  <a href="https://github.com/HChikry?tab=repositories" title="Show Repositories">Show More</a>
+</h4>
 
 <br /><br />
 
