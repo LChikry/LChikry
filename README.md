@@ -26,24 +26,27 @@ Social Media + Competitive Programming Accounts
 </p>
 -->
 
-<br /><br />
+
 
 <!-- Checkout this repo for more badges: https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file -->
-## 🛠️ My Tech Stack
+<details>
+<summary><h2>🛠️ My Tech Stack</h2></summary>
   
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
 
-
-<h4>👨‍💻 I'm Learning Now</h4>
+<details>
+<summary><h4>👨‍💻 I'm Learning Now</h4></summary>
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](#)
+</details>
 
-<h4>✨ I Want To Learn</h4>
+<details>
+<summary><h4>✨ I Want To Learn</h4></summary>
 
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 [![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)](#)
@@ -61,10 +64,12 @@ Social Media + Competitive Programming Accounts
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](#)
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](#)
 
+</details>
+</details>
 
-<br /><br />
 
-## 🏗️ Projects I Built/Contributed to..
+<details>
+<summary><h2>🏗️ Projects I Built/Contributed to..</h2>></summary>
 
 <a href="https://github.com/HChikry/unbeatable-tictactoe-in-c"><img alt="Ubeatable TicTacToe in C" src="https://github-readme-stats.vercel.app/api/pin/?username=HChikry&repo=unbeatable-tictactoe-in-c&theme=react&hide_border=true" height="150px"/></a>
 <a href="https://github.com/AbdessamadAe/Vex-U-2024"><img alt="Vex U 2024 Competition" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdessamadAe&repo=Vex-U-2024&theme=react&hide_border=true" height="130px"/></a>
@@ -72,10 +77,10 @@ Social Media + Competitive Programming Accounts
 <h4 align="center">
   <a href="https://github.com/HChikry?tab=repositories" title="Show Repositories">Show More</a>
 </h4>
+</details>
 
-<br /><br />
-
-## ⚡️ My Stats and Activity
+<details>
+<summary><h2>⚡️ My Stats and Activity</h2></summary>
 
 <a href="#"><img alt="Lahoucine Chikry's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=HChikry&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="#"><img alt="Lahoucine Chikry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HChikry&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
@@ -88,9 +93,12 @@ And add this note
 -->
 
 [![Snake animation](https://github.com/HChikry/HChikry/blob/output/github-contribution-grid-snake.svg)](#)
+</details>
+
 <p align="center">
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></a>
 </p>
+
 
 
 
