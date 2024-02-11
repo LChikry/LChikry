@@ -65,8 +65,8 @@ Social Media + Competitive Programming Accounts
 
 ## 🏗️ Projects I Built/Contributed to..
 
-<a href="https://github.com/HChikry/unbeatable-tictactoe-in-c"><img alt="Ubeatable TicTacToe in C" src="https://github-readme-stats.vercel.app/api/pin/?username=HChikry&repo=unbeatable-tictactoe-in-c&theme=react" height="192px"/></a>
-<a href="https://github.com/AbdessamadAe/Vex-U-2024"><img alt="Vex U 2024 Competition" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdessamadAe&repo=Vex-U-2024&theme=react" height="192px"/></a>
+<a href="https://github.com/HChikry/unbeatable-tictactoe-in-c"><img alt="Ubeatable TicTacToe in C" src="https://github-readme-stats.vercel.app/api/pin/?username=HChikry&repo=unbeatable-tictactoe-in-c&theme=react"/></a>
+<a href="https://github.com/AbdessamadAe/Vex-U-2024"><img alt="Vex U 2024 Competition" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdessamadAe&repo=Vex-U-2024&theme=react"/></a>
 
 <br /><br />
 
