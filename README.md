@@ -2,7 +2,7 @@
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/></a>
 </p>
 
-## 🌗 Know More About Me!
+## 🌗 Who I Am?
 
 I'm a student majoring in Artificial Intelligence and Robotization at Al Akhawayn University in Ifrane, Morocco.
 
