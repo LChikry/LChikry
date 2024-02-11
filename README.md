@@ -2,17 +2,15 @@
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/></a>
 </p>
 
-# 🌗 Know More About Me!
+## 🌗 Know More About Me!
 
 I'm a student majoring in Artificial Intelligence and Robotization at Al Akhawayn University in Ifrane, Morocco.
-<br />
-<br />
 
 #### You Can Find Me at
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HChikry)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HChikry)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HChikry)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HChikry) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HChikry)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HChikry)
 
 <!--
 Social Media + Competitive Programming Accounts
@@ -30,7 +28,7 @@ Social Media + Competitive Programming Accounts
 <br /><br />
 
 <!-- Checkout this repo for more badges: https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file -->
-# 🛠️ My Tech Stack
+## 🛠️ My Tech Stack
   
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
@@ -65,6 +63,18 @@ Social Media + Competitive Programming Accounts
 
 <br /><br />
 
+## 🏗️ Projects I Built/Contributed to..
+
+<a href="https://github.com/HChikry/unbeatable-tictactoe-in-c"><img alt="Ubeatable TicTacToe in C" src="https://github-readme-stats.vercel.app/api/pin/?username=HChikry&repo=unbeatable-tictactoe-in-c&theme=react" height="192px"/></a>
+<a href="https://github.com/AbdessamadAe/Vex-U-2024"><img alt="Vex U 2024 Competition" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdessamadAe&repo=Vex-U-2024&theme=react" height="192px"/></a>
+
+<br /><br />
+
+## ⚡️ My Stats and Activity
+
+<a href="#"><img alt="Lahoucine Chikry's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=HChikry&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="#"><img alt="Lahoucine Chikry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HChikry&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+
 <!-- If you had more than 4 languages replace the top languages code with this one:
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lahoucine Chikry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HChikry&langs_count=8&theme=react&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
@@ -72,19 +82,10 @@ And add this note
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 -->
 
-
-# ⚡️ My Stats and Activity
-
-<a href="#"><img alt="Lahoucine Chikry's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=HChikry&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="#"><img alt="Lahoucine Chikry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HChikry&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 [![Snake animation](https://github.com/HChikry/HChikry/blob/output/github-contribution-grid-snake.svg)](#)
 <p align="center">
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></a>
 </p>
-
-
-
-
 
 
 
