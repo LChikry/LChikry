@@ -4,14 +4,22 @@
 
 ## 🌗 Who I Am?
 
-I'm a student majoring in Artificial Intelligence and Robotization at Al Akhawayn University in Ifrane, Morocco.
+I’m a learner driven by a passion for building tech solutions that streamline life and work. Aspiring to become a software engineer to broaden my skills and enhance my ability to solve more impactful problems.
+Currently, I'm a junior student at Al Akhawayn University, specializing in Artificial Intelligence and Computer Systems, and minoring in Communication.
+
+I’m excited to explore opportunities where I can contribute my technical knowledge to create impactful solutions, whether by developing new products or optimizing existing ones. I am also passionate about robotics and low-level programming, and I look forward to learn React Native to bring more of my ideas to life and further enhance my skills as a software engineer.
+
+Feel free to reach me on Twitter, LinkedIn, or by email. I love meeting new people and learning new things!
+
 
 #### You Can Find Me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HChikry)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HChikry)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hc4contact@gmail.com)
+<!--
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HChikry)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HChikry)
+-->
 
 <!--
 Social Media + Competitive Programming Accounts
