@@ -13,24 +13,24 @@ Feel free to reach me on Twitter, LinkedIn, or by email. I love meeting new peop
 
 
 #### You Can Find Me at
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HChikry)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HChikry)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LChikry)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LChikry)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:LChikry@gmail.com)
 <!--
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HChikry)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/HChikry)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LChikry)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/LChikry)
 -->
 
 <!--
 Social Media + Competitive Programming Accounts
 <p align="left">
-<a href="https://twitter.com/hchikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hchikry" height="26" width="40" /></a>
-<a href="https://linkedin.com/in/hchikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hchikry" height="26" width="40" /></a>
-<a href="https://fb.com/hchikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hchikry" height="26" width="40" /></a>
-<a href="https://instagram.com/hchikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hchikry" height="26" width="40" /></a>
-<a href="https://www.hackerrank.com/hchikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hchikry" height="26" width="40" /></a>
-<a href="https://codeforces.com/profile/hchikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hchikry" height="26" width="40" /></a>
-<a href="https://www.leetcode.com/hchikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hchikry" height="26" width="40" /></a>
+<a href="https://twitter.com/LChikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LChikry" height="26" width="40" /></a>
+<a href="https://linkedin.com/in/LChikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LChikry" height="26" width="40" /></a>
+<a href="https://fb.com/LChikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="LChikry" height="26" width="40" /></a>
+<a href="https://instagram.com/LChikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="LChikry" height="26" width="40" /></a>
+<a href="https://www.hackerrank.com/LChikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="LChikry" height="26" width="40" /></a>
+<a href="https://codeforces.com/profile/LChikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="LChikry" height="26" width="40" /></a>
+<a href="https://www.leetcode.com/LChikry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LChikry" height="26" width="40" /></a>
 </p>
 -->
 
@@ -79,28 +79,28 @@ Social Media + Competitive Programming Accounts
 <details>
 <summary><h2>🏗️ Projects I Built/Contributed to..</h2>></summary>
 
-<a href="https://github.com/HChikry/unbeatable-tictactoe-in-c"><img alt="Ubeatable TicTacToe in C" src="https://github-readme-stats.vercel.app/api/pin/?username=HChikry&repo=unbeatable-tictactoe-in-c&theme=react&hide_border=true" height="150px"/></a>
+<a href="https://github.com/LChikry/unbeatable-tictactoe-in-c"><img alt="Ubeatable TicTacToe in C" src="https://github-readme-stats.vercel.app/api/pin/?username=LChikry&repo=unbeatable-tictactoe-in-c&theme=react&hide_border=true" height="150px"/></a>
 <a href="https://github.com/AbdessamadAe/Vex-U-2024"><img alt="Vex U 2024 Competition" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdessamadAe&repo=Vex-U-2024&theme=react&hide_border=true" height="130px"/></a>
 
 <h4 align="center">
-  <a href="https://github.com/HChikry?tab=repositories" title="Show Repositories">Show More</a>
+  <a href="https://github.com/LChikry?tab=repositories" title="Show Repositories">Show More</a>
 </h4>
 </details>
 
 <details>
 <summary><h2>⚡️ My Stats and Activity</h2></summary>
 
-<a href="#"><img alt="Lahoucine Chikry's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=HChikry&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="#"><img alt="Lahoucine Chikry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HChikry&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="#"><img alt="Lahoucine Chikry's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=LChikry&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="#"><img alt="Lahoucine Chikry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LChikry&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 <!-- If you had more than 4 languages replace the top languages code with this one:
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lahoucine Chikry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HChikry&langs_count=8&theme=react&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lahoucine Chikry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LChikry&langs_count=8&theme=react&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 And add this note
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 -->
 
-[![Snake animation](https://github.com/HChikry/HChikry/blob/output/github-contribution-grid-snake.svg)](#)
+[![Snake animation](https://github.com/LChikry/LChikry/blob/output/github-contribution-grid-snake.svg)](#)
 </details>
 
 <p align="center">
@@ -118,7 +118,7 @@ And add this note
 
 <!--
 <p align="center">
-  <a href="https://github.com/HChikry">
+  <a href="https://github.com/LChikry">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Lahoucine Chikry" /></a>
 </p>
 -->
