@@ -21,6 +21,24 @@ Feel free to reach me on Twitter, LinkedIn, or by email. I love meeting new peop
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/LChikry)
 -->
 
+<!-- PROJECTS -->
+<!--
+### Current Projects
+
+| Project (languages) | Stars / Activity |
+| :------------------ | :--------------- |
+| [DevSecInspect.nvim](https://github.com/GeekMasher/DevSecInspect.nvim) (Lua)| ![](https://img.shields.io/github/stars/GeekMasher/DevSecInspect.nvim?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/DevSecInspect.nvim?style=flat-square) |
+| [SecuriTree.nvim](https://github.com/GeekMasher/securitree.nvim) (Lua)| ![](https://img.shields.io/github/stars/GeekMasher/securitree.nvim?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/securitree.nvim?style=flat-square) |
+| [Quibble](https://github.com/GeekMasher/quibble) (Rust)| ![](https://img.shields.io/github/stars/GeekMasher/quibble?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/quibble?style=flat-square) |
+| [Gungnir](https://github.com/GeekMasher/gungnir) (Python)| ![](https://img.shields.io/github/stars/GeekMasher/gungnir?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/gungnir?style=flat-square) |
+| [ghastoolkit](https://github.com/GeekMasher/ghastoolkit) (Python)| ![](https://img.shields.io/github/stars/GeekMasher/ghastoolkit?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/ghastoolkit?style=flat-square) |
+| [CodeQL Queries](https://github.com/GeekMasher/security-codeql) (CodeQL)| ![](https://img.shields.io/github/stars/GeekMasher/security-codeql?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/security-codeql?style=flat-square) |
+| [ghactions](https://github.com/GeekMasher/ghactions) (Rust)| ![](https://img.shields.io/github/stars/GeekMasher/ghactions?style=flat-square) - ![activity](https://img.shields.io/github/last-commit/GeekMasher/ghactions?style=flat-square) |
+
+-->
+
+
+
 <!--
 Social Media + Competitive Programming Accounts
 <p align="left">
