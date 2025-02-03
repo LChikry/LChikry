@@ -1,3 +1,4 @@
+```latex
 \documentclass[letterpaper,11pt]{article}
 
 \usepackage{latexsym}
@@ -221,3 +222,4 @@
 
 %-------------------------------------------
 \end{document}
+```
