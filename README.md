@@ -1,6 +1,7 @@
 <p align="center">
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello...سلام&height=100&section=header"/></a>
 </p>
+
 ## 🌗 About Me
 
 I enjoy developing software solutions that simplify everyday life. I am a junior Computer Science student at Al Akhawayn University, specializing in Artificial Intelligence and Computer Systems, with a minor in Communication Studies.
