@@ -4,7 +4,7 @@
 
 ## 🌗 About Me
 
-I build software that simplifies life and robots to have fun :)
+I develop software that simplifies life, while building robots for fun :)
 
 I’m a junior Computer Science student at Al Akhawayn University, specializing in Computer Systems and Artificial Intelligence, minoring in Communication Studies. I'm also part of the university’s mechatronics team, where we design and build robots to compete in national and international competitions.
 
